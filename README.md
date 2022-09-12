@@ -1,1 +1,1 @@
-# qx_notify
+# Simple notify for fivem
